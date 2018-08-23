@@ -1,1 +1,2 @@
-# Blind-Source-Saperation-and-its-Application
+# Blind-Source-Saperation-and-its-Application  
+Designed an algorithm for Image analysis using Blind Source Techniques.  I have used Error Gated Hebbian Rule and modified using Principle and Independent component analysis . It gives various paramters on which the components of an image can be analysed in more efficient manner such as mixing matrix , PCA Cost , ICA Cost etc. It is the advanced version of analysing mechanism used by a human brain to analyse an Image. 
